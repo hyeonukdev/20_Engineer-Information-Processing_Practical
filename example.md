@@ -12,7 +12,6 @@
 <details>
     <summary>토글</summary>
     
-    
 </details>
 
 
